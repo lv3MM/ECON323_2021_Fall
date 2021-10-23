@@ -9,13 +9,13 @@ This will be updated throughout the course.
 6. **September 27** - Review PS2, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html)
 7. **September 29** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **October 4** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
-9. **October 6** - Finish [Optimization](https://datascience.quantecon.org/scientific/optimization.html),[Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
+9. **October 6** - Finish [Optimization](https://datascience.quantecon.org/scientific/optimization.html),[Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 10. **October 11** - Thanksgiving
-11. **October 14** - Finish [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
-12. **October 19** - Quickly through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and  [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
-13. **October 21** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
-14. **October 26** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-15. **October 28** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html)
+11. **October 13** - [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
+12. **October 18** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
+13. **October 20** - [Merge](https://datascience.quantecon.org/pandas/merge.html)
+14. **October 25** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
+15. **October 27** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html)
 16. **November 1** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 17. **November 3** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 18. **November 8** - [Regression](https://datascience.quantecon.org/applications/regression.html)
@@ -35,7 +35,7 @@ This will be updated throughout the course.
 2. Due **September 26** - [Problem Set 2](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_2.ipynb)
 3. Due **October 3** - [Problem Set 3](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_3.ipynb)
 4. Due **October 15**- [Problem Set 4](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_4.ipynb)
-<!-- 5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)  -->
+5. Due **October 22** - [Problem Set 5](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_5.ipynb)
 <!-- 6. Due **October 29th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - Only questions 1-7 and 9-10. -->
 <!-- 7. Due **November 5th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)  -->
 <!-- 7. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -\-> -->
