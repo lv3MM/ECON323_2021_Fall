@@ -30,7 +30,7 @@ This is a tentative schedule and will be updated as the course progresses.
 26. **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 
 ## Problem Sets
-**Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets), not the ones from quantecon.org! Do not do the quantecon.org problem sets that appear in lecture-datascience.notebooks/problem_sets!.
+**Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`!.
 
 1. Due **September 17th** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
 2. Due **September 26th** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
@@ -38,5 +38,5 @@ This is a tentative schedule and will be updated as the course progresses.
 4. Due **October 15th**- [Problem Set 4](/problem_sets/problem_set_4.ipynb)
 5. Due **October 24th** - [Problem Set 5](/problem_sets/problem_set_5.ipynb)
 6. Due **November 3rd** - [Problem Set 6](/problem_sets/problem_set_6.ipynb)
-<!-- 7. Due **November 5th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)  -->
+7. Due **November 22nd** - [Problem Set 7](/problem_sets/problem_set_7.html)
 <!-- 7. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -\-> -->
